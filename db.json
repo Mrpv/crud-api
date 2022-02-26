@@ -1,0 +1,9 @@
+{
+  "posts": [
+    {
+      "title": "post 2 atualizado",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque cursus laoreet enim, sed aliquet tortor elementum in. Integer ut dui posuere diam vestibulum ullamcorper. ",
+      "id": 2
+    }
+  ]
+}
